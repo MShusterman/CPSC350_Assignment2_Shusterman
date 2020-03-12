@@ -1,4 +1,4 @@
-Here is generation #: 1
+Here is generation #: 0
 #########
 #---X--X#
 #-X--X--#
@@ -7,7 +7,7 @@ Here is generation #: 1
 #-----XX#
 #########
 
-Here is generation #: 2
+Here is generation #: 1
 #########
 #--XXXXX#
 #----X--#
@@ -16,7 +16,7 @@ Here is generation #: 2
 #X---X--#
 #########
 
-Here is generation #: 3
+Here is generation #: 2
 #########
 #--X----#
 #XX-----#
@@ -25,7 +25,7 @@ Here is generation #: 3
 #X--XXX-#
 #########
 
-Here is generation #: 4
+Here is generation #: 3
 #########
 #--X----#
 #-XX----#
@@ -34,7 +34,7 @@ Here is generation #: 4
 #-XXX---#
 #########
 
-Here is generation #: 5
+Here is generation #: 4
 #########
 #--XX---#
 #-XXX---#
@@ -43,7 +43,7 @@ Here is generation #: 5
 #----X--#
 #########
 
-Here is generation #: 6
+Here is generation #: 5
 #########
 #----X--#
 #-X-X---#
@@ -52,7 +52,7 @@ Here is generation #: 6
 #-------#
 #########
 
-Here is generation #: 7
+Here is generation #: 6
 #########
 #---XX--#
 #--XX---#
@@ -61,7 +61,7 @@ Here is generation #: 7
 #-------#
 #########
 
-Here is generation #: 8
+Here is generation #: 7
 #########
 #-------#
 #--X-X--#
@@ -70,7 +70,7 @@ Here is generation #: 8
 #-------#
 #########
 
-Here is generation #: 9
+Here is generation #: 8
 #########
 #-------#
 #--X----#
@@ -79,7 +79,7 @@ Here is generation #: 9
 #-------#
 #########
 
-Here is generation #: 10
+Here is generation #: 9
 #########
 #-------#
 #--XX---#
@@ -88,7 +88,7 @@ Here is generation #: 10
 #-------#
 #########
 
-Here is generation #: 11
+Here is generation #: 10
 #########
 #-------#
 #--XX---#
